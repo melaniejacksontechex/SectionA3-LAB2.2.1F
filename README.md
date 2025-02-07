@@ -3,6 +3,7 @@
 ## Our Team
 
 TODO: Replace with your team members
+Melanie Jackson
 
 ## How to run the streamlit app
 
