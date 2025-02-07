@@ -5,6 +5,7 @@
 TODO: Replace with your team members
 
 #Viviana Ramos 
+#Melanie Jackson
 
 ## How to run the streamlit app
 
